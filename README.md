@@ -84,5 +84,9 @@
 
 <br/>  
 
+## Listening to 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=qllv173gqb8n0ubwsii870dg5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=qllv173gqb8n0ubwsii870dg5&redirect=true)
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=Luis-Rosario-Alers&&style=flat-square)  
   
