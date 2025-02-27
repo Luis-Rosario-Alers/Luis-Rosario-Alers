@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [CarbonCalculator.](https://github.com/Luis-Rosario-Alers/CarbonCalculator)  
   
 
-- 🌱 I’m currently learning Cyber Security.  
+- 🌱 I’m currently learning data science.  
   
 
 - ❓ Ask me about anything related to Python and related technologies.  
