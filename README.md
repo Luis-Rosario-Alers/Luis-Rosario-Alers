@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [BankOps](https://github.com/Luis-Rosario-Alers/BankOps) and [BankOpsAPI](https://github.com/Luis-Rosario-Alers/BankOpsAPI)
   
 
-- 🌱 I’m currently learning cybersecurity and C++. 
+- 🌱 I’m currently learning cybersecurity and Rust. 
   
 
 - ❓ Ask me about anything related to Python and related technologies.  
